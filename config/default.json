@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://arpan123:123@devconnector.trhab.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "9f372f47f82e0dc97fa4",
+  "githubSecret": "ee94743beda0aba9639967c81c1ac86f2af0c725"
+}
